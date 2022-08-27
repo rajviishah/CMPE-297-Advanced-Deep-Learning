@@ -27,4 +27,4 @@
   
   - The pokemon card based on the given name will be shown in the output section (on the right)
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/50801491/187009110-57909b72-6499-4b2c-8b1e-04348e36441f.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/50801491/187009203-0d8d96b0-91e8-47e3-a7e7-734902fed08e.png">
