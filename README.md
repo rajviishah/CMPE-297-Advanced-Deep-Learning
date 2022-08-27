@@ -1,6 +1,8 @@
 # CMPE-297-Advanced-Deep-Learning
 
-1) Magma
+<h1>Assignment 1 : Use AI Pair Programmer(Github copilot) . Play with recent ML model demos and produce some cool artifacts</h1>
+
+###1) Magma
 - Multimodal Augmentation of Generative Models through Adapter-based Finetuning
 - Steps to execute the demo:
   - Visit: https://huggingface.co/spaces/EleutherAI/magma
