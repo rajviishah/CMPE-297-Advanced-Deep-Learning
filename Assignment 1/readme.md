@@ -10,6 +10,9 @@ Both notebooks are uploaded in the repo.
 
 
 <h2>Part b: AI demos</h2>
+
+Video Link: https://youtu.be/S6kg-MDJxRc
+
 <h2>1) Magma</h2>
 - Multimodal Augmentation of Generative Models through Adapter-based Finetuning
 
