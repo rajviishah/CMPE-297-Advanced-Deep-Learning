@@ -101,7 +101,7 @@ Both notebooks are uploaded in the repo.
  
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/50801491/187010780-bc6ed2fc-e405-4e89-be86-c33004449663.png">
 
-<h2>8) Handwritten Digits Recognition</h2>
+<h2>9) Handwritten Digits Recognition</h2>
 - You draw a digit, and the model tries to recognize it.
 
 - Steps to execute the demo:
@@ -110,7 +110,7 @@ Both notebooks are uploaded in the repo.
  
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/50801491/187010853-814d9d29-065a-4c56-8294-c9228592080c.png">
 
-<h2>9) Image Classification (MobileNetV2)</h2>
+<h2>10) Image Classification (MobileNetV2)</h2>
 - You upload a picture, and the model tries to classify it depending on what it “sees” on the picture. This model uses transfer learning and is based on MobilenetV2.
 
 - Steps to execute the demo:
@@ -120,7 +120,7 @@ Both notebooks are uploaded in the repo.
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/50801491/187011064-223318bd-ff3b-461e-8787-c26d1071bba2.png">
 
 
-<h2>10) Rock Paper Scissors (CNN)</h2>
+<h2>11) Rock Paper Scissors (CNN)</h2>
 - You play a Rock-Paper-Scissors game with the model. This experiment uses CNN that is trained from scratch.
 
 - Steps to execute the demo:
