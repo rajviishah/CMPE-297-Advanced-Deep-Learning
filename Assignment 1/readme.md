@@ -5,7 +5,7 @@ Keras based neural network model: keras_nn.ipynb
 
 Pytorch based neural network model: pytorch_nn.ipynb
 
-Both notebooks are upload in the repo.
+Both notebooks are uploaded in the repo.
 
 
 
