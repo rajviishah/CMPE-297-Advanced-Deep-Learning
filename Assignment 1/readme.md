@@ -1,5 +1,15 @@
 <h1>Assignment 1 : Use AI Pair Programmer(Github copilot). Play with recent ML model demos and produce some cool artifacts</h1>
 
+<h2>Part a: Copilat Extension</h2>
+Keras based neural network model: keras_nn.ipynb
+
+Pytorch based neural network model: pytorch_nn.ipynb
+
+Both notebooks are upload in the repo.
+
+
+
+<h2>Part b: AI demos</h2>
 <h2>1) Magma</h2>
 - Multimodal Augmentation of Generative Models through Adapter-based Finetuning
 
