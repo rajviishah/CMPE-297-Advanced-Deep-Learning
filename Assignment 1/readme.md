@@ -7,7 +7,7 @@ Pytorch based neural network model: pytorch_nn.ipynb
 
 Both notebooks are uploaded in the repo.
 
-
+Video Link: https://youtu.be/cbFl6qa3MV8
 
 <h2>Part b: AI demos</h2>
 
