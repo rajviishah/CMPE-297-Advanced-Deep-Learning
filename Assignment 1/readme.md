@@ -1,9 +1,9 @@
-<h1>Assignment 1 : Use AI Pair Programmer(Github copilat). Play with recent ML model demos and produce some cool artifacts</h1>
+<h1>Assignment 1 : Use AI Pair Programmer(Github copilot). Play with recent ML model demos and produce some cool artifacts</h1>
 
-<h2>Part a: Copilat Extension</h2>
-Keras based neural network model: keras_nn.ipynb
+<h2>Part a: Copilot Extension</h2>
+Keras based neural network model using Copilot: keras_nn.ipynb
 
-Pytorch based neural network model: pytorch_nn.ipynb
+Pytorch based neural network model using Copilot: pytorch_nn.ipynb
 
 Both notebooks are uploaded in the repo.
 
