@@ -20,6 +20,6 @@
 
 <b>Task</b>: Implement a colab of  metalearning on top of BERT
 
-<b>CMPE 297 - Assignment 4 - Part c.ipynb</b>:
+<b>CMPE 297 - Assignment 4 - Part c.ipynb</b>: Applied Meta Learning on top of BERT model
 
-<b>Link</b>:
+<b>Link</b>: https://colab.research.google.com/drive/1odZ7_aKl4OnoCdDc2dh2y7plGHd90AiT?usp=sharing
