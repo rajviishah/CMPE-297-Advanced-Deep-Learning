@@ -12,9 +12,9 @@
 
 <b>Task</b>: Implement a colab for meta learning using prototypical networks in pytorch
 
-<b>CMPE 297 - Assignment 4 - Part b.ipynb</b>:
+<b>CMPE 297 - Assignment 4 - Part b.ipynb</b>: I have applied prototypical networks on CIFAR100 dataset. The colab is descriptive and detailed with the processes of data preparation, visualization of data, defining hyperparameters, building the model using reptile algorithm, and visualizing results
 
-<b>Link</b>:
+<b>Link</b>: https://colab.research.google.com/drive/1YIbKhrVRRn2cLMIwmXydYQPchjDqlhnK?usp=sharing
 
 <h2>c) Meta Learning and BERT</h2>
 
