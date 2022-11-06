@@ -2,11 +2,11 @@
 
 <h2>a) Do an end2end well annotated and commented demo of continual learning using avalanche library in colab</h2>
 
-<b>Dataset:</b>
+<b>Dataset:</b>PermutedMNIST Dataset
 
-<b>Description:</b>
+<b>Description:</b>SimpleMLP modeling on PermutedMNIST dataset. Avalanche provides the strategy of clean and simple code that makes it easy to use.
 
-<b>Colab Link:</b>
+<b>Colab Link:</b>https://colab.research.google.com/drive/1cXavct07fV3camc9UxEEfY6Xxq8Cpmsp?usp=sharing
 
 <h2>b) Write a colab to demonstrate active learning with lightly.ai end2end</h2>
 
