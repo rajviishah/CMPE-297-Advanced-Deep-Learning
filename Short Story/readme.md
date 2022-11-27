@@ -2,6 +2,6 @@
 
 <b>Medium Blog Link:</b> https://rajviishah.medium.com/anomalous-user-detection-in-social-network-using-graph-neural-networks-gnn-494e0d74cb7a
 
-<b>Slideshare Link:</b>
+<b>Slideshare Link:</b> https://www.slideshare.net/RajviShah86/cmpe-297-short-storypptx
 
 <b>Video Link:</b>
