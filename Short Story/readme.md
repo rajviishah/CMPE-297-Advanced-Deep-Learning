@@ -4,4 +4,4 @@
 
 <b>Slideshare Link:</b> https://www.slideshare.net/RajviShah86/cmpe-297-short-storypptx
 
-<b>Video Link:</b>
+<b>Video Link:</b> https://drive.google.com/file/d/1KQAjzgEpx7TP9ZJskFlDkvoqNRBeXife/view?usp=sharing
